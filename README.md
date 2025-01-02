@@ -1,9 +1,3 @@
-# Vrinda-Store-Annual-Report
-Excel data analysis project
-
-# Vrinda Store Annual Report 
-
-
 ## Key Features 
 
 1. **Monthly Sales Trends**:  
