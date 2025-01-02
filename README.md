@@ -1,3 +1,5 @@
+This project showcases an **interactive dashboard** created in **Microsoft Excel** to analyze and visualize the annual performance of Vrinda Store. The report provides key insights into sales, customer demographics, regional performance, and order status, helping stakeholders make data-driven decisions.
+
 ## Key Features 
 
 1. **Monthly Sales Trends**:  
